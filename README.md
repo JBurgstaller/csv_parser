@@ -6,7 +6,7 @@ Displays and plots csv files from the terminal.
 ## Installation
 
 ```bash
-pip install git+https://github.com/jessica/csv_parser
+pip install git+https://github.com/JBurgstaller/csv_parser
 ```
 ## Usage
 
