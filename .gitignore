@@ -1,0 +1,17 @@
+# type in command line: git add .gitignore after creating this file to add it to git!
+
+
+.ipynb_checkpoints
+*.egg-info
+build
+dist
+
+
+#using the terminal to commit to git:
+
+#git commit -am "first commit"
+
+
+
+#a: all files
+#m: you get message now
